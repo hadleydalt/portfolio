@@ -17,6 +17,7 @@ import HereYouWillFind from './assets/hereyouwillfind.png'
 import FeaturedProjects from './assets/featured-projects.png'
 import ContentSection from './components/ContentSection'
 import OtherWork from './assets/other-work.png'
+
 interface WeatherData {
   weather: { main: string }[];
   wind: { speed: number };
